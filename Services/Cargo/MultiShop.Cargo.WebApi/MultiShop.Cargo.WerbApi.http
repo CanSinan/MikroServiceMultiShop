@@ -1,0 +1,6 @@
+@MultiShop.Cargo.WerbApi_HostAddress = http://localhost:5053
+
+GET {{MultiShop.Cargo.WerbApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
